@@ -36,12 +36,12 @@ This signal is fed to an SR latch circuit which:
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.jpeg)
+![Circuit Diagram](circuit_diagram.jpeg)
 
 ---
 
 ## 🧪 Hardware Implementation
-![Hardware Setup](images/hardware.jpeg)
+![Hardware Setup](hardware.jpeg)
 
 ---
 
